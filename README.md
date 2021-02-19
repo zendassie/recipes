@@ -20,7 +20,7 @@
 - If you want to convert a web page of a recipe, execute `./code/recipe_saver.py` from VS Code and enter the recipe url. It will then save the file in `./docs/` with the filename being the recipe titles scrapes from the web page.
 - You can manually add more recipes by simply adding markdown files in `./docs/` youself.
 - Customize the site structure of the MKDocs site in `mkdocs.yml`.
-- Convert the markdown documents by running `mkdocs build`
+- Convert the markdown documents by running `mkdocs build --clean`
 - Deploy to GitHub Pages with `mkdocs gh-deploy --theme readthedocs`
 - You're done. Easy as Pie (see what I did there?). Enjoy.
 
