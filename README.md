@@ -24,4 +24,4 @@
 - Deploy to GitHub Pages with `mkdocs gh-deploy --theme readthedocs`
 - You're done. Easy as Pie (see what I did there?). Enjoy.
 
-> Out saved recipes can be found @ [https://juan007.github.io/recipes/](https://juan007.github.io/recipes/)
+> Our saved recipes can be found @ [https://juan007.github.io/recipes/](https://juan007.github.io/recipes/)
