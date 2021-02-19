@@ -1,4 +1,4 @@
-# Burmese Chickpea Tofu recipe (soy free tofu) {vegan + dairy free + gluten free}
+# Burmese Chickpea Tofu recipe (soy free tofu)
 
 ## Meta
 
