@@ -21,5 +21,5 @@
 - You can manually add more recipes by simply adding markdown files in `./docs/` youself.
 - Customize the site structure of the MKDocs site in `mkdocs.yml`.
 - Convert the markdown documents by running `mkdocs build`
-- Git commit and push
+- Deploy to GitHub Pages with `mkdocs gh-deploy --theme readthedocs`
 - You're done. Easy as Pie (see what I did there?). Enjoy.
