@@ -22,6 +22,7 @@
 - Customize the site structure of the MKDocs site in `mkdocs.yml`.
 - Convert the markdown documents by running `mkdocs build --clean`
 - Deploy to GitHub Pages with `mkdocs gh-deploy --theme readthedocs`
+  > No need to build if you deploy
 - You're done. Easy as Pie (see what I did there?). Enjoy.
 
 > Our saved recipes can be found @ [https://juan007.github.io/recipes/](https://juan007.github.io/recipes/)
