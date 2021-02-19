@@ -1,0 +1,5 @@
+site_name: Venter Recipes
+site_description: Recipes saved for the Venter Family
+site_author: Joachem Marthinus Venter
+theme:
+    name: readthedocs
