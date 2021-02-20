@@ -20,12 +20,13 @@
 
 ## Ingredients
 
-- 2 1⁄2 cups all-purpose flour (may substitute whole wheat flour for 1 cup of the all-purpose)
-- 1 (1/4 ounce) package active dry yeast
-- 1⁄4 teaspoon salt
-- 1 cup warm water
-- 1⁄2 - 1 tablespoon olive oil
-- cornmeal, for sprinkling
+|Inregient|2 pizzas|4 pizzas|6 pizzas|
+|-|-|-|-|
+|Flour|2 1⁄2 cups|5 cups|7 1⁄2 cups|
+|Salt|1⁄4 tsp|2⁄4 tsp|3⁄4 tsp|
+|Warm water|1 cup|2 cups|3 cups|
+|Olive oil|1 tbsp|2 tbsp|3 tbsp|
+|Cornmeal||||
 
 ## Preparation
 
