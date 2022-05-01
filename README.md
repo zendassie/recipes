@@ -25,4 +25,4 @@
   > No need to build if you deploy
 - You're done. Easy as Pie (see what I did there?). Enjoy.
 
-> Our saved recipes can be found @ [https://juan007.github.io/recipes/](https://juan007.github.io/recipes/)
+> Our saved recipes can be found @ [https://zendassie.github.io/recipes/](https://juan007.github.io/recipes/)
